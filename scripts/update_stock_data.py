@@ -4,7 +4,7 @@ import pandas as pd
 import yfinance as yf
 
 # 你想抽嘅股票，可以之後加多幾隻
-TICKERS = ["TSLA"]
+TICKERS = ["TSLA", "NVDA", "GOOG", "SOXL"]
 
 DATA_DIR = "data"
 YEARS = 5
